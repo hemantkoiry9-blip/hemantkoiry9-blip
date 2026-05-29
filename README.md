@@ -9,7 +9,7 @@
 - 💬 **Ask me about:** Python, JavaScript, MySQL, Web Development
 - 📫 **How to reach me:** hemantkoiry9@gmail.com
 - 🔗 **LinkedIn:** [linkedin.com/in/hemantkoiry](https://www.linkedin.com/in/hemantkoiry)
-- 🐙 **GitHub:** [github.com/pankajkoi](https://github.com/pankajkoi)
+  
 
   
 ## 🌐 Socials:
